@@ -56,14 +56,12 @@ The workflow for testing action classification model is as follow:
 
 >> Secondly, to extract video features using ViT-L on rear view and dash view of official videos, you can run:
 
- ```python inference_video_feature_vitl.py  --model_path ./weights/hybrid_k700_vitl_rearview.pt --video_dir XXX --save_dir XXX --view Rear --device cuda:0 ```
- 
- ```python inference_video_feature_vitl.py  --model_path ./weights/hybrid_k700_vitl_dashboard.pt --video_dir XXX --save_dir XXX --view Dash --device cuda:0 ```
- 
- ```python inference_video_feature_vitl.py  --model_path ./weights/ego_verb_vitl_rearview.pt --video_dir XXX --save_dir XXX --view Rear --device cuda:0 ```
- 
- ```python inference_video_feature_vitl.py  --model_path ./weights/ego_verb_vitl_dashboard.pt --video_dir XXX --save_dir XXX --view Dash --device cuda:0 ```
-
+>>```shell 
+ >>python inference_video_feature_vitl.py  --model_path ./weights/hybrid_k700_vitl_rearview.pt --video_dir XXX --save_dir XXX --view Rear --device cuda:0  
+ >>python inference_video_feature_vitl.py  --model_path ./weights/hybrid_k700_vitl_dashboard.pt --video_dir XXX --save_dir XXX --view Dash --device cuda:0  
+ >>python inference_video_feature_vitl.py  --model_path ./weights/ego_verb_vitl_rearview.pt --video_dir XXX --save_dir XXX --view Rear --device cuda:0  
+ >>python inference_video_feature_vitl.py  --model_path ./weights/ego_verb_vitl_dashboard.pt --video_dir XXX --save_dir XXX --view Dash --device cuda:0  
+>>``` 
 
 
 3.action_detection_code
