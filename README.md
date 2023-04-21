@@ -68,24 +68,14 @@ The workflow for testing action classification model is as follow:
 
 3.action_detection_code
 - Modify the relevant config file(./configs/aicity_action_xxx.yaml), change the path of "feat_folder" and "json_file".
-- Training 
->> cd ./MA-Actionformer   
->>```shell  
->>python ./train.py ./configs/aicity_action_xxx.yaml --output reproduce   
->>```   
->>where:    
->>>>  aicity_action_xxx.yaml is the model's archi type file. As for MA-Actionformer, The options include **aicity_action_ego.yaml**,    **aicity_action_hybird.yaml** and  **aicity_action_k400.yaml**.   
-
->>cd ./tridet   
->>```shell  
->>python ./train.py ./configs/aicity_action_xxx.yaml --output reproduce   
->>```  
 
 
 - Generating the action location csv files with start and end time.   
 >> cd ./MA-Actionformer  
 >>```shell      
->>python ./eval.py ./configs/aicity_action_xxx.yaml ./ckpt/aicity_action_xxx_reproduce/    
+>>python ./eval.py ./configs/aicity_action_k400.yaml ./ckpt/aicity_action_vmae_vitHK400_3modelAIcityA1_1280_crop_rear_A1-train_A2-infe        
+>>python ./eval.py ./configs/aicity_action_ego.yaml ./ckpt/aicity_action_ego4d_verb_vitl_track3_crop_pred_rear_A1-train_A2-infe     
+>>python ./eval.py ./configs/aicity_action_hybird.yaml ./ckpt/aicity_action_hybrid_k700_vitl_track3_crop_pred_e35_A1-train_A2-infe   
 >>```  
 
 >>cd ./tridet       
