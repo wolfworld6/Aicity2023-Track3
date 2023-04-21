@@ -1,0 +1,6847 @@
+{
+    "version": "AI CITY 2023 track-3",
+    "database": {
+        "Rear_view_user_id_13522_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        11.0,
+                        31.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        48.0,
+                        69.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        85.0,
+                        108.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        126.0,
+                        144.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        159.0,
+                        181.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        199.0,
+                        206.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        220.0,
+                        229.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        259.0,
+                        263.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        278.0,
+                        285.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        298.0,
+                        311.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        330.0,
+                        344.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        365.0,
+                        372.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        386.0,
+                        390.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        419.0,
+                        437.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        452.0,
+                        470.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        486.0,
+                        507.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 509.3,
+            "subset": "training"
+        },
+        "Rear_view_user_id_13522_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        11.0,
+                        21.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        48.0,
+                        68.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        85.0,
+                        105.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        122.0,
+                        141.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        157.0,
+                        178.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        196.0,
+                        206.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        220.0,
+                        229.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        258.0,
+                        263.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        277.0,
+                        282.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        297.0,
+                        308.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        327.0,
+                        343.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        362.0,
+                        370.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        384.0,
+                        387.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        415.0,
+                        434.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        449.0,
+                        470.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        484.0,
+                        506.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 514.0333333333333,
+            "subset": "training"
+        },
+        "Rear_view_user_id_28557_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        8.0,
+                        9.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        33.0,
+                        48.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        66.0,
+                        84.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        98.0,
+                        101.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        119.0,
+                        126.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        161.0,
+                        165.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        189.0,
+                        208.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        213.0,
+                        228.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        248.0,
+                        261.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        277.0,
+                        287.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        305.0,
+                        310.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        328.0,
+                        343.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        360.0,
+                        376.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        390.0,
+                        409.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        433.0,
+                        447.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        467.0,
+                        472.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 488.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_28557_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        11.0,
+                        13.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        33.0,
+                        41.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        65.0,
+                        84.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        98.0,
+                        102.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        118.0,
+                        124.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        161.0,
+                        163.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        188.0,
+                        209.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        212.0,
+                        227.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        250.0,
+                        258.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        275.0,
+                        284.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        304.0,
+                        307.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        327.0,
+                        343.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        359.0,
+                        376.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        389.0,
+                        409.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        434.0,
+                        449.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        465.0,
+                        470.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 488.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_30932_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        9.0,
+                        12.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        74.0,
+                        89.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        416.0,
+                        423.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        451.0,
+                        459.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        38.0,
+                        57.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        358.0,
+                        362.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        159.0,
+                        162.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        105.0,
+                        107.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        266.0,
+                        268.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        292.0,
+                        295.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        135.0,
+                        141.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        241.0,
+                        247.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        480.0,
+                        486.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        200.0,
+                        219.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        323.0,
+                        337.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        381.0,
+                        394.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 494.1666666666667,
+            "subset": "training"
+        },
+        "Rear_view_user_id_30932_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        9.0,
+                        12.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        74.0,
+                        90.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        414.0,
+                        424.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        451.0,
+                        461.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        38.0,
+                        57.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        357.0,
+                        361.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        159.0,
+                        161.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        105.0,
+                        107.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        266.0,
+                        268.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        296.0,
+                        299.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        137.0,
+                        141.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        235.0,
+                        243.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        481.0,
+                        484.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        201.0,
+                        220.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        322.0,
+                        337.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        357.0,
+                        361.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 494.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_31903_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        9.0,
+                        31.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        46.0,
+                        68.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        81.0,
+                        97.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        108.0,
+                        128.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        140.0,
+                        148.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        160.0,
+                        167.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        183.0,
+                        196.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        209.0,
+                        219.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        241.0,
+                        263.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        277.0,
+                        293.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        307.0,
+                        331.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        343.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        379.0,
+                        394.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        406.0,
+                        425.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        439.0,
+                        459.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        472.0,
+                        492.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 493.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_31903_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        9.0,
+                        32.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        46.0,
+                        72.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        80.0,
+                        95.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        108.0,
+                        126.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        136.0,
+                        148.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        159.0,
+                        166.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        177.0,
+                        194.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        207.0,
+                        219.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        242.0,
+                        260.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        277.0,
+                        293.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        307.0,
+                        330.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        343.0,
+                        372.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        379.0,
+                        394.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        405.0,
+                        425.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        437.0,
+                        458.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        471.0,
+                        490.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 492.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_39367_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        9.0,
+                        22.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        35.0,
+                        43.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        67.0,
+                        89.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        106.0,
+                        119.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        136.0,
+                        141.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        156.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        193.0,
+                        211.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        229.0,
+                        236.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        250.0,
+                        266.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        281.0,
+                        301.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        323.0,
+                        327.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        348.0,
+                        364.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        380.0,
+                        403.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        418.0,
+                        422.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        438.0,
+                        459.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        482.0,
+                        495.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 498.43333333333334,
+            "subset": "training"
+        },
+        "Rear_view_user_id_39367_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        8.0,
+                        22.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        35.0,
+                        51.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        66.0,
+                        90.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        106.0,
+                        117.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        136.0,
+                        142.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        160.0,
+                        170.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        193.0,
+                        213.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        228.0,
+                        237.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        251.0,
+                        266.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        283.0,
+                        302.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        329.0,
+                        336.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        348.0,
+                        365.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        380.0,
+                        402.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        418.0,
+                        423.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        438.0,
+                        460.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        476.0,
+                        495.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 498.3333333333333,
+            "subset": "training"
+        },
+        "Rear_view_user_id_42711_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        15.0,
+                        22.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        57.0,
+                        66.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        76.0,
+                        97.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        110.0,
+                        135.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        149.0,
+                        157.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        169.0,
+                        196.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        213.0,
+                        224.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        234.0,
+                        254.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        270.0,
+                        289.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        305.0,
+                        309.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        328.0,
+                        350.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        356.0,
+                        382.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        394.0,
+                        415.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        437.0,
+                        460.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        473.0,
+                        476.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        495.0,
+                        504.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 523.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_42711_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        14.0,
+                        18.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        53.0,
+                        65.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        78.0,
+                        91.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        111.0,
+                        135.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        150.0,
+                        156.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        170.0,
+                        177.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        214.0,
+                        224.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        235.0,
+                        238.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        270.0,
+                        289.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        304.0,
+                        307.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        325.0,
+                        330.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        357.0,
+                        373.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        394.0,
+                        414.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        436.0,
+                        460.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        473.0,
+                        478.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        496.0,
+                        509.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 523.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_46856_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        10.0,
+                        29.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        41.0,
+                        66.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        80.0,
+                        82.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        115.0,
+                        117.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        136.0,
+                        155.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        171.0,
+                        176.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        207.0,
+                        210.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        231.0,
+                        254.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        265.0,
+                        268.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        297.0,
+                        318.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        334.0,
+                        352.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        376.0,
+                        392.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        404.0,
+                        420.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        434.0,
+                        438.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        454.0,
+                        469.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        483.0,
+                        495.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 499.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_46856_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        10.0,
+                        27.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        41.0,
+                        64.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        78.0,
+                        86.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        114.0,
+                        116.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        136.0,
+                        154.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        170.0,
+                        176.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        206.0,
+                        209.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        229.0,
+                        250.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        264.0,
+                        269.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        296.0,
+                        313.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        332.0,
+                        351.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        374.0,
+                        391.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        403.0,
+                        420.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        434.0,
+                        438.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        452.0,
+                        468.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        483.0,
+                        497.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 499.03333333333336,
+            "subset": "training"
+        },
+        "Rear_view_user_id_47457_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        9.0,
+                        29.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        32.0,
+                        35.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        66.0,
+                        88.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        102.0,
+                        104.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        135.0,
+                        146.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        170.0,
+                        184.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        202.0,
+                        224.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        237.0,
+                        254.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        267.0,
+                        285.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        296.0,
+                        359.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        330.0,
+                        349.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        364.0,
+                        374.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        390.0,
+                        411.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        428.0,
+                        444.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        458.0,
+                        472.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        488.0,
+                        491.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 500.3666666666667,
+            "subset": "training"
+        },
+        "Rear_view_user_id_47457_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        9.0,
+                        12.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        33.0,
+                        35.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        67.0,
+                        80.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        105.0,
+                        108.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        136.0,
+                        148.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        173.0,
+                        187.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        202.0,
+                        220.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        237.0,
+                        253.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        268.0,
+                        279.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        299.0,
+                        303.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        330.0,
+                        346.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        364.0,
+                        373.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        391.0,
+                        412.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        425.0,
+                        443.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        458.0,
+                        474.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        487.0,
+                        490.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 500.43333333333334,
+            "subset": "training"
+        },
+        "Rear_view_user_id_57207_NoAudio_1": {
+            "annotations": [
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        9.0,
+                        28.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        42.0,
+                        57.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        72.0,
+                        82.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        98.0,
+                        116.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        130.0,
+                        140.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        154.0,
+                        169.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        185.0,
+                        193.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        205.0,
+                        218.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        234.0,
+                        248.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        273.0,
+                        297.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        309.0,
+                        317.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        320.0,
+                        330.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        346.0,
+                        360.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        384.0,
+                        396.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        411.0,
+                        430.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        444.0,
+                        466.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        481.0,
+                        498.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 500.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_57207_NoAudio_3": {
+            "annotations": [
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        8.0,
+                        28.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        42.0,
+                        58.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        72.0,
+                        83.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        98.0,
+                        116.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        131.0,
+                        143.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        154.0,
+                        172.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        185.0,
+                        193.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        207.0,
+                        222.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        230.0,
+                        250.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        273.0,
+                        297.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        309.0,
+                        316.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        318.0,
+                        324.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        345.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        381.0,
+                        396.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        411.0,
+                        430.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        443.0,
+                        467.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        480.0,
+                        498.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 500.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_59581_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        8.0,
+                        24.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        37.0,
+                        57.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        81.0,
+                        89.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        107.0,
+                        123.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        139.0,
+                        143.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        163.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        185.0,
+                        193.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        218.0,
+                        226.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        240.0,
+                        252.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        276.0,
+                        278.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        325.0,
+                        334.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        350.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        379.0,
+                        396.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        413.0,
+                        430.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        458.0,
+                        463.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        480.0,
+                        481.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 499.4,
+            "subset": "training"
+        },
+        "Rear_view_user_id_59581_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        8.0,
+                        24.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        37.0,
+                        58.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        83.0,
+                        90.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        110.0,
+                        123.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        136.0,
+                        142.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        163.0,
+                        170.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        183.0,
+                        194.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        217.0,
+                        224.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        240.0,
+                        251.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        276.0,
+                        278.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        317.0,
+                        333.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        351.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        380.0,
+                        395.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        410.0,
+                        430.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        446.0,
+                        463.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        477.0,
+                        496.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 499.06666666666666,
+            "subset": "training"
+        },
+        "Rear_view_user_id_60167_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        9.0,
+                        23.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        41.0,
+                        59.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        73.0,
+                        85.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        98.0,
+                        106.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        124.0,
+                        140.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        155.0,
+                        162.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        179.0,
+                        181.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        209.0,
+                        215.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        245.0,
+                        260.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        283.0,
+                        299.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        315.0,
+                        325.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        348.0,
+                        354.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        381.0,
+                        383.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        402.0,
+                        417.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        436.0,
+                        448.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        474.0,
+                        481.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 494.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_60167_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        8.0,
+                        15.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        38.0,
+                        49.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        73.0,
+                        77.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        97.0,
+                        102.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        121.0,
+                        138.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        153.0,
+                        159.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        179.0,
+                        181.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        208.0,
+                        212.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        247.0,
+                        268.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        282.0,
+                        288.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        314.0,
+                        323.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        347.0,
+                        354.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        379.0,
+                        380.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        402.0,
+                        422.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        436.0,
+                        447.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        472.0,
+                        478.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 493.3666666666667,
+            "subset": "training"
+        },
+        "Rear_view_user_id_60768_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        7.0,
+                        32.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        50.0,
+                        64.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        75.0,
+                        93.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        109.0,
+                        129.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        144.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        182.0,
+                        192.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        206.0,
+                        216.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        232.0,
+                        254.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        267.0,
+                        292.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        305.0,
+                        316.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        333.0,
+                        336.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        360.0,
+                        384.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        407.0,
+                        431.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        442.0,
+                        463.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        475.0,
+                        500.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        513.0,
+                        522.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 525.1333333333333,
+            "subset": "training"
+        },
+        "Rear_view_user_id_60768_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        7.0,
+                        32.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        54.0,
+                        64.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        75.0,
+                        94.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        109.0,
+                        129.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        144.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        182.0,
+                        192.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        206.0,
+                        216.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        231.0,
+                        254.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        267.0,
+                        292.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        305.0,
+                        316.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        333.0,
+                        336.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        360.0,
+                        384.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        407.0,
+                        431.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        442.0,
+                        463.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        475.0,
+                        500.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        513.0,
+                        522.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 526.3333333333334,
+            "subset": "training"
+        },
+        "Rear_view_user_id_61962_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        8.0,
+                        30.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        41.0,
+                        65.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        80.0,
+                        103.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        117.0,
+                        134.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        146.0,
+                        170.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        181.0,
+                        191.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        212.0,
+                        230.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        246.0,
+                        253.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        278.0,
+                        286.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        299.0,
+                        306.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        319.0,
+                        336.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        350.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        383.0,
+                        402.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        421.0,
+                        433.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        450.0,
+                        453.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        483.0,
+                        491.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 504.3333333333333,
+            "subset": "training"
+        },
+        "Rear_view_user_id_61962_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        8.0,
+                        30.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        41.0,
+                        65.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        80.0,
+                        103.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        117.0,
+                        134.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        146.0,
+                        170.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        181.0,
+                        191.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        212.0,
+                        230.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        250.0,
+                        258.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        278.0,
+                        286.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        299.0,
+                        306.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        319.0,
+                        336.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        350.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        383.0,
+                        402.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        422.0,
+                        433.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        450.0,
+                        452.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        482.0,
+                        491.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 502.43333333333334,
+            "subset": "training"
+        },
+        "Rear_view_user_id_63513_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        10.0,
+                        12.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        41.0,
+                        46.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        66.0,
+                        86.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        110.0,
+                        119.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        137.0,
+                        138.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        169.0,
+                        173.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        188.0,
+                        193.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        235.0,
+                        246.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        263.0,
+                        266.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        288.0,
+                        307.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        353.0,
+                        365.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        380.0,
+                        389.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        413.0,
+                        422.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        452.0,
+                        474.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        489.0,
+                        496.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        530.0,
+                        536.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        547.0,
+                        554.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 557.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_63513_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        13.0,
+                        15.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        42.0,
+                        45.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        66.0,
+                        78.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        105.0,
+                        107.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        139.0,
+                        147.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        167.0,
+                        173.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        188.0,
+                        193.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        235.0,
+                        242.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        262.0,
+                        265.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        286.0,
+                        308.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        325.0,
+                        333.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        352.0,
+                        361.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        380.0,
+                        387.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        411.0,
+                        418.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        451.0,
+                        462.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        489.0,
+                        498.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 510.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_63764_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        8.0,
+                        32.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        47.0,
+                        61.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        75.0,
+                        91.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        107.0,
+                        121.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        136.0,
+                        158.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        175.0,
+                        192.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        222.0,
+                        236.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        251.0,
+                        266.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        282.0,
+                        295.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        309.0,
+                        330.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        345.0,
+                        352.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        368.0,
+                        373.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        393.0,
+                        412.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        429.0,
+                        436.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        459.0,
+                        479.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        493.0,
+                        500.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 507.26666666666665,
+            "subset": "training"
+        },
+        "Rear_view_user_id_63764_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        8.0,
+                        28.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        44.0,
+                        65.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        80.0,
+                        103.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        117.0,
+                        139.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        155.0,
+                        174.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        191.0,
+                        206.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        217.0,
+                        236.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        255.0,
+                        258.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        274.0,
+                        276.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        295.0,
+                        296.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        319.0,
+                        340.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        353.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        382.0,
+                        388.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        414.0,
+                        432.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        447.0,
+                        468.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        481.0,
+                        503.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 507.46666666666664,
+            "subset": "training"
+        },
+        "Rear_view_user_id_71436_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        9.0,
+                        13.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        38.0,
+                        39.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        61.0,
+                        76.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        92.0,
+                        99.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        125.0,
+                        131.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        151.0,
+                        167.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        193.0,
+                        209.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        226.0,
+                        228.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        255.0,
+                        270.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        291.0,
+                        305.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        318.0,
+                        340.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        355.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        385.0,
+                        405.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        421.0,
+                        436.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        451.0,
+                        455.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        468.0,
+                        484.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 488.3333333333333,
+            "subset": "training"
+        },
+        "Rear_view_user_id_71436_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        8.0,
+                        13.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        34.0,
+                        35.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        61.0,
+                        76.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        92.0,
+                        98.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        124.0,
+                        130.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        150.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        193.0,
+                        209.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        226.0,
+                        228.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        255.0,
+                        267.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        293.0,
+                        305.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        320.0,
+                        341.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        357.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        385.0,
+                        406.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        422.0,
+                        437.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        451.0,
+                        455.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        468.0,
+                        484.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 488.06666666666666,
+            "subset": "training"
+        },
+        "Rear_view_user_id_78052_NoAudio_9": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        9.0,
+                        15.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        33.0,
+                        40.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        49.0,
+                        54.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        84.0,
+                        88.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        90.0,
+                        95.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        115.0,
+                        136.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        158.0,
+                        160.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        185.0,
+                        208.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        225.0,
+                        230.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        247.0,
+                        264.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        281.0,
+                        296.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        317.0,
+                        327.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        350.0,
+                        354.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        385.0,
+                        399.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        420.0,
+                        432.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        457.0,
+                        465.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        479.0,
+                        500.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 504.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_78052_NoAudio_11": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        9.0,
+                        17.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        33.0,
+                        36.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        50.0,
+                        58.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        83.0,
+                        91.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        115.0,
+                        137.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        157.0,
+                        159.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        191.0,
+                        202.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        223.0,
+                        229.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        246.0,
+                        264.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        286.0,
+                        300.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        317.0,
+                        331.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        350.0,
+                        355.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        383.0,
+                        396.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        417.0,
+                        432.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        458.0,
+                        467.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        479.0,
+                        500.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 504.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_83323_NoAudio_3": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        7.0,
+                        19.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        34.0,
+                        36.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        67.0,
+                        90.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        113.0,
+                        134.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        146.0,
+                        157.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        170.0,
+                        189.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        200.0,
+                        216.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        235.0,
+                        249.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        266.0,
+                        281.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        293.0,
+                        309.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        324.0,
+                        345.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        359.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        391.0,
+                        404.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        416.0,
+                        438.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        452.0,
+                        471.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        486.0,
+                        508.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 511.3666666666667,
+            "subset": "training"
+        },
+        "Rear_view_user_id_83323_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        7.0,
+                        19.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        35.0,
+                        39.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        67.0,
+                        90.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        113.0,
+                        134.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        146.0,
+                        157.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        170.0,
+                        189.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        200.0,
+                        216.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        235.0,
+                        249.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        265.0,
+                        281.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        293.0,
+                        309.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        324.0,
+                        345.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        359.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        388.0,
+                        403.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        416.0,
+                        438.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        452.0,
+                        471.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        486.0,
+                        508.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 511.3666666666667,
+            "subset": "training"
+        },
+        "Rear_view_user_id_83756_NoAudio_3": {
+            "annotations": [
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        9.0,
+                        32.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        44.0,
+                        58.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        72.0,
+                        75.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        99.0,
+                        125.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        135.0,
+                        155.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        170.0,
+                        189.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        208.0,
+                        221.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        233.0,
+                        254.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        268.0,
+                        273.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        302.0,
+                        312.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        324.0,
+                        336.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        350.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        380.0,
+                        406.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        422.0,
+                        432.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        444.0,
+                        468.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        491.0,
+                        508.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 512.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_83756_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        9.0,
+                        30.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        44.0,
+                        73.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        72.0,
+                        76.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        101.0,
+                        124.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        136.0,
+                        152.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        168.0,
+                        190.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        204.0,
+                        219.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        231.0,
+                        255.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        267.0,
+                        272.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        302.0,
+                        309.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        326.0,
+                        336.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        350.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        384.0,
+                        410.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        419.0,
+                        430.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        444.0,
+                        470.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        502.0,
+                        511.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 512.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_84935_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        8.0,
+                        28.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        42.0,
+                        49.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        75.0,
+                        97.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        112.0,
+                        117.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        138.0,
+                        151.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        164.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        197.0,
+                        209.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        237.0,
+                        244.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        273.0,
+                        284.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        309.0,
+                        313.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        329.0,
+                        342.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        360.0,
+                        368.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        389.0,
+                        395.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        425.0,
+                        431.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        454.0,
+                        458.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        476.0,
+                        486.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 491.03333333333336,
+            "subset": "training"
+        },
+        "Rear_view_user_id_84935_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        8.0,
+                        29.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        44.0,
+                        50.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        76.0,
+                        98.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        113.0,
+                        117.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        141.0,
+                        151.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        164.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        197.0,
+                        219.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        236.0,
+                        246.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        273.0,
+                        284.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        309.0,
+                        313.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        330.0,
+                        343.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        360.0,
+                        367.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        389.0,
+                        395.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        428.0,
+                        432.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        452.0,
+                        454.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        476.0,
+                        489.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 492.03333333333336,
+            "subset": "training"
+        },
+        "Rear_view_user_id_85870_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        8.0,
+                        12.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        33.0,
+                        37.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        57.0,
+                        58.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        82.0,
+                        85.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        120.0,
+                        125.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        152.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        188.0,
+                        214.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        228.0,
+                        233.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        255.0,
+                        272.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        287.0,
+                        290.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        323.0,
+                        339.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        361.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        383.0,
+                        404.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        417.0,
+                        432.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        448.0,
+                        463.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        485.0,
+                        493.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 496.1333333333333,
+            "subset": "training"
+        },
+        "Rear_view_user_id_85870_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        8.0,
+                        12.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        33.0,
+                        38.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        57.0,
+                        58.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        82.0,
+                        87.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        127.0,
+                        129.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        152.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        188.0,
+                        214.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        227.0,
+                        233.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        254.0,
+                        272.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        288.0,
+                        291.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        324.0,
+                        334.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        360.0,
+                        370.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        382.0,
+                        403.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        416.0,
+                        432.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        448.0,
+                        463.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        486.0,
+                        493.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 496.3666666666667,
+            "subset": "training"
+        },
+        "Rear_view_user_id_86356_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        9.0,
+                        13.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        43.0,
+                        51.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        83.0,
+                        89.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        106.0,
+                        131.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        151.0,
+                        175.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        188.0,
+                        213.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        225.0,
+                        237.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        254.0,
+                        278.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        299.0,
+                        314.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        333.0,
+                        350.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        366.0,
+                        373.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        388.0,
+                        394.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        420.0,
+                        437.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        452.0,
+                        459.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        471.0,
+                        483.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        504.0,
+                        512.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 523.4,
+            "subset": "training"
+        },
+        "Rear_view_user_id_86356_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        9.0,
+                        15.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        46.0,
+                        50.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        82.0,
+                        90.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        115.0,
+                        128.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        153.0,
+                        174.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        190.0,
+                        203.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        225.0,
+                        250.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        256.0,
+                        277.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        300.0,
+                        315.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        333.0,
+                        350.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        370.0,
+                        372.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        388.0,
+                        393.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        420.0,
+                        437.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        451.0,
+                        457.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        473.0,
+                        492.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        509.0,
+                        512.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 523.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_86952_NoAudio_11": {
+            "annotations": [
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        12.0,
+                        14.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        46.0,
+                        60.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        73.0,
+                        77.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        112.0,
+                        129.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        142.0,
+                        163.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        181.0,
+                        184.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        204.0,
+                        215.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        231.0,
+                        233.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        252.0,
+                        274.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        286.0,
+                        306.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        321.0,
+                        337.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        361.0,
+                        362.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        391.0,
+                        394.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        414.0,
+                        428.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        456.0,
+                        475.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        493.0,
+                        514.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 517.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_86952_NoAudio_9": {
+            "annotations": [
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        15.0,
+                        16.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        47.0,
+                        59.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        72.0,
+                        75.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        111.0,
+                        126.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        158.0,
+                        164.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        178.0,
+                        181.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        202.0,
+                        216.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        231.0,
+                        238.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        252.0,
+                        273.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        266.0,
+                        308.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        321.0,
+                        337.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        355.0,
+                        360.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        390.0,
+                        396.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        412.0,
+                        423.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        455.0,
+                        474.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        490.0,
+                        515.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 516.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_96269_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        33.0,
+                        50.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        60.0,
+                        66.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        84.0,
+                        100.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        113.0,
+                        118.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        153.0,
+                        156.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        173.0,
+                        189.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        201.0,
+                        205.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        235.0,
+                        251.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        268.0,
+                        292.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        306.0,
+                        310.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        330.0,
+                        359.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        365.0,
+                        383.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        399.0,
+                        422.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        436.0,
+                        460.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        482.0,
+                        497.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        510.0,
+                        532.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 536.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_96269_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        7.0,
+                        32.0
+                    ]
+                },
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        48.0,
+                        109.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        70.0,
+                        87.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        102.0,
+                        112.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        141.0,
+                        144.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        158.0,
+                        237.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        187.0,
+                        191.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        223.0,
+                        292.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        255.0,
+                        280.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        295.0,
+                        298.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        319.0,
+                        343.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        353.0,
+                        371.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        388.0,
+                        407.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        422.0,
+                        445.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        469.0,
+                        484.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        499.0,
+                        520.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 522.0,
+            "subset": "training"
+        },
+        "Rear_view_user_id_99882_NoAudio_5": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        10.0,
+                        13.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        29.0,
+                        51.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        65.0,
+                        82.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        101.0,
+                        118.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        130.0,
+                        133.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        163.0,
+                        166.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        197.0,
+                        217.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        232.0,
+                        235.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        252.0,
+                        265.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        281.0,
+                        300.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        317.0,
+                        332.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        353.0,
+                        369.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        384.0,
+                        395.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        421.0,
+                        433.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        450.0,
+                        454.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        485.0,
+                        500.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 500.4,
+            "subset": "training"
+        },
+        "Rear_view_user_id_99882_NoAudio_7": {
+            "annotations": [
+                {
+                    "label": 10,
+                    "label_id": 10,
+                    "segment": [
+                        7.0,
+                        14.0
+                    ]
+                },
+                {
+                    "label": 14,
+                    "label_id": 14,
+                    "segment": [
+                        30.0,
+                        41.0
+                    ]
+                },
+                {
+                    "label": 0,
+                    "label_id": 0,
+                    "segment": [
+                        65.0,
+                        83.0
+                    ]
+                },
+                {
+                    "label": 3,
+                    "label_id": 3,
+                    "segment": [
+                        105.0,
+                        119.0
+                    ]
+                },
+                {
+                    "label": 13,
+                    "label_id": 13,
+                    "segment": [
+                        130.0,
+                        135.0
+                    ]
+                },
+                {
+                    "label": 7,
+                    "label_id": 7,
+                    "segment": [
+                        163.0,
+                        166.0
+                    ]
+                },
+                {
+                    "label": 11,
+                    "label_id": 11,
+                    "segment": [
+                        199.0,
+                        217.0
+                    ]
+                },
+                {
+                    "label": 9,
+                    "label_id": 9,
+                    "segment": [
+                        231.0,
+                        236.0
+                    ]
+                },
+                {
+                    "label": 12,
+                    "label_id": 12,
+                    "segment": [
+                        254.0,
+                        266.0
+                    ]
+                },
+                {
+                    "label": 15,
+                    "label_id": 15,
+                    "segment": [
+                        280.0,
+                        300.0
+                    ]
+                },
+                {
+                    "label": 8,
+                    "label_id": 8,
+                    "segment": [
+                        315.0,
+                        323.0
+                    ]
+                },
+                {
+                    "label": 2,
+                    "label_id": 2,
+                    "segment": [
+                        352.0,
+                        368.0
+                    ]
+                },
+                {
+                    "label": 6,
+                    "label_id": 6,
+                    "segment": [
+                        385.0,
+                        397.0
+                    ]
+                },
+                {
+                    "label": 4,
+                    "label_id": 4,
+                    "segment": [
+                        422.0,
+                        434.0
+                    ]
+                },
+                {
+                    "label": 1,
+                    "label_id": 1,
+                    "segment": [
+                        453.0,
+                        456.0
+                    ]
+                },
+                {
+                    "label": 5,
+                    "label_id": 5,
+                    "segment": [
+                        484.0,
+                        498.0
+                    ]
+                }
+            ],
+            "resolution": "1920*1080",
+            "duration": 501.3666666666667,
+            "subset": "training"
+        },
+        "Rear_view_user_id_26223_NoAudio_3": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 488.06666666666666,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_26223_NoAudio_5": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 488.06666666666666,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_42897_NoAudio_5": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 504.0,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_42897_NoAudio_7": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 504.0,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_49989_NoAudio_5": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 507.23333333333335,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_49989_NoAudio_7": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 507.1,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_51953_NoAudio_3": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 518.0,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_51953_NoAudio_7": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 519.0,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_96715_NoAudio_5": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 512.0,
+            "subset": "validation"
+        },
+        "Rear_view_user_id_96715_NoAudio_7": {
+            "annotations": [],
+            "resolution": "1920*1080",
+            "duration": 511.0,
+            "subset": "validation"
+        }
+    }
+}
