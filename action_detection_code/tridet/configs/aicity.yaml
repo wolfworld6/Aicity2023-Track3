@@ -1,0 +1,55 @@
+dataset_name: epic
+train_split: ['training']
+val_split: ['validation']
+dataset: {
+  json_file: ./data/aicity/annotations/track3_Rearview.json,
+  # json_file: ./data/aicity/annotations/track3_only_Rearview_A1_alltrain.json,
+  # feat_folder: ./data/aicity/trained_features/features_videomae_vitHK400_s448_1280_16_personOnly_rear_e63_loss16_A1A2, 
+  feat_folder: ./data/aicity/trained_features/features_videomae_vitHK400_3modelAIcityA1_1280+16_personOnly_A1A2,
+  file_prefix: ~,
+  file_ext: .npz,
+  num_classes: 16,
+  input_dim: 1280,
+  feat_stride: 16,
+  num_frames: 32,
+  default_fps: 30,
+  trunc_thresh: 0.3,
+  crop_ratio: [0.8, 1.0],
+  max_seq_len: 1280,
+}
+model: {
+  regression_range: [[0, 4], [2, 8], [4, 16], [8, 32], [16, 64], [32, 10000]],
+  fpn_type: identity,
+  max_buffer_len_factor: 4.0,
+  n_sgp_win_size: 9,
+  num_bins: 16,
+  iou_weight_power: 0.25,
+  use_trident_head: True,
+  sgp_mlp_dim: 1024,
+  k: 2,
+}
+opt: {
+  learning_rate: 0.001,
+  eta_min: 0.00005,
+  warmup_epochs: 5,
+  epochs: 45,
+  weight_decay: 0.005,
+}
+loader: {
+  batch_size: 2,
+}
+train_cfg: {
+  init_loss_norm: 250,
+  clip_grad_l2norm: 1.0,
+  cls_prior_prob: 0.01,
+  center_sample: radius,
+  center_sample_radius: 1.5,
+}
+test_cfg: {
+  pre_nms_topk: 2304,
+  max_seg_num: 1280,
+  min_score: 0.001,
+  nms_sigma : 0.35,
+  multiclass_nms: True
+}
+output_folder: ./ckpt/
