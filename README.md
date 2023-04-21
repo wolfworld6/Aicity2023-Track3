@@ -49,9 +49,9 @@ The workflow for testing action classification model is as follow:
 - Extracting video features of B dataset using trained weights.
 >> Firstly, to extract video features using ViT-H on rear view and dash view of official videos, you can run:
 
->>```shell
- python inference_video_feature_vithK400.py --ckpt_pth ./weights/k400_vith_rearview.pt --video_dir XXX --output_dir XXX --select_view Rear --device cuda:0  
- python inference_video_feature_vithK400.py --ckpt_pth ./weights/K400_vith_dashboard.pt --video_dir XXX --output_dir XXX --select_view Dash --device cuda:0  
+>>```shell  
+>>python inference_video_feature_vithK400.py --ckpt_pth ./weights/k400_vith_rearview.pt --video_dir XXX --output_dir XXX --select_view Rear --device cuda:0  
+>>python inference_video_feature_vithK400.py --ckpt_pth ./weights/K400_vith_dashboard.pt --video_dir XXX --output_dir XXX --select_view Dash --device cuda:0  
 >>```  
 
 >> Secondly, to extract video features using ViT-L on rear view and dash view of official videos, you can run:
