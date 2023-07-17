@@ -31,7 +31,7 @@ The implementation of our code  for the Track 3 of AI City Challenge.
 ## Download Features and Annotations 
 >> 1.Download features ** FH(k400)(1280) A2 ** from [this Google Drive link](https://drive.google.com/drive/folders/1daSXHjpe2wblt1j0GCmK5hhoWvBu-QBo?usp=sharing)    
 >> 2.Download annotations ** inference: track3_only_Rearview_A1-train_A2-val-nullAnno.json ** and ** Training: track3_Rearview-Dashboard_A1-Alltraining.json ** from [this Google Drive link](https://drive.google.com/drive/folders/1p7mew6x_UUASeJcOXaLlfv3MgF6idfOS?usp=sharing).    
->> 3.Download ** ckpt FH(k400)(1280) **  from [this Google Drive link](https://drive.google.com/drive/folders/1WWqnzr87IhPS1JQRh9EfNsxG6EVWuplR?usp=sharing).    
+>> 3.Download ** ckpt FH(k400)(1280) **  from [this Google Drive link](https://drive.google.com/drive/folders/1X-kxowVODmReNqFpHu80yOqSZ9Kiw0GC?usp=sharing).    
 
 
 # 2.To Reproduce Our Results on FL(ego)(1024)    
